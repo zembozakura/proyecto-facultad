@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/zembozakura/kidkanekiken/issues"
   },
-  "homepage": "https://github.com/zembozakura/kidkanekiken#readme"
+  "homepage": "https://github.com/zembozakura/kidkanekiken#readme",
+  "directories": {
+    "test": "test"
+  },
+  "keywords": []
 }

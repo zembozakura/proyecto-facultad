@@ -19,5 +19,8 @@
   "directories": {
     "test": "test"
   },
-  "keywords": []
+  "keywords": [],
+  "dependencies": {
+    "bcrypt": "^6.0.0"
+  }
 }
